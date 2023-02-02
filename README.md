@@ -13,3 +13,6 @@ Use glut to implement a window with button and textbox
 g++ main.cpp -lGL -lglut -lGLU -o main
 ```
 
+### Screenshot
+   ![](https://github.com/lvchenjia/glutGUI/blob/main/Screenshot_20230202_165933.png?raw=true)
+
