@@ -14,4 +14,4 @@ g++ main.cpp -lGL -lglut -lGLU -o main
 ```
 
 ### Screenshot
-![height=700px](https://github.com/lvchenjia/glutGUI/blob/main/Screenshot_20230202_165933.png?raw=true)
+![height=70px](https://github.com/lvchenjia/glutGUI/blob/main/Screenshot_20230202_165933.png?raw=true)
