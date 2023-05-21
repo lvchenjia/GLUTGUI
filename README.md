@@ -1,4 +1,4 @@
-# glutGUI
+# GLUT GUI
 ### Introduce
 Use glut to implement a window with button and textbox
 
